@@ -1,0 +1,15 @@
+Test Event Name
+TestBookHotel
+
+Response
+{
+  "errors": "transient error"
+}
+
+Function Logs
+START RequestId: 66c5948e-12f5-452e-a242-e37453577c5c Version: $LATEST
+END RequestId: 66c5948e-12f5-452e-a242-e37453577c5c
+REPORT RequestId: 66c5948e-12f5-452e-a242-e37453577c5c	Duration: 287.42 ms	Billed Duration: 288 ms	Memory Size: 128 MB	Max Memory Used: 62 MB
+
+Request ID
+66c5948e-12f5-452e-a242-e37453577c5c
